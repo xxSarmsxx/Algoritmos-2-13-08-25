@@ -27,7 +27,7 @@ int main(){
         soma += 3;
      }
     
-    printf("Caso você possua %d centavos, a quantidade de selos de 3 centavos será %d e %d 5 centavos. :)\n", centavos, selo3,selo5);
+    printf("Caso você possua %d centavos, a quantidade de selos de 3 centavos será %d e %d de 5 centavos. :)\n", centavos, selo3,selo5);
     
     return 0;
    }
